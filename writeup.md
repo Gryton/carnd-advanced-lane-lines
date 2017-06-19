@@ -128,7 +128,7 @@ transform (I used inversed matrix by calculating transformation from destination
 
 Here is an example of my result on a test image:
 
-![alt text][image8]
+![alt text][image9]
 
 ---
 
